@@ -1,15 +1,15 @@
 {
-    "version": 247,
+    "version": 250,
     "updateMode": 0,
     "isCompress": true,
     "ApplicationName": "Z-Lift",
-    "UpdateTime": "02/02/2026 14:32:40",
-    "TotalSize": 287296152,
+    "UpdateTime": "02/02/2026 16:52:48",
+    "TotalSize": 293170504,
     "HotFiles": [
         {
             "FileName": "\\build.info",
-            "Md5": "18B554B7B7BB453B96E5979A0FAD687F",
-            "Size": 50666
+            "Md5": "35E32F64F705D5522A675DD84F337B4D",
+            "Size": 51295
         },
         {
             "FileName": "\\UnityCrashHandler64.exe",
@@ -158,8 +158,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\globalgamemanagers",
-            "Md5": "D04E93E67C819330085B63E4FE1084C0",
-            "Size": 37083
+            "Md5": "464BFA3DAC1804B30332FAA3FDEFE5A1",
+            "Size": 37084
         },
         {
             "FileName": "\\Z-Lift_Data\\globalgamemanagers.assets",
@@ -203,13 +203,13 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Cache\\cache2.tempcache",
-            "Md5": "EF75134902E925919B339DA89EE924CF",
-            "Size": 548883
+            "Md5": "A59B62C025C18114F3C39BD4EB50FA62",
+            "Size": 548882
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Cache\\cache3.tempcache",
-            "Md5": "F736766EC25AF81BAE9B9D62713A656D",
-            "Size": 301377
+            "Md5": "D0B765CA7D046C13420CE6192A70CFBD",
+            "Size": 336092
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\06123fbc3a786e2e732e8eb2d0f02ec3.bundle",
@@ -283,8 +283,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\466572cfa443c0804c29cb651aeba9ae.bundle",
-            "Md5": "AC8887B036A8E571CABEFEF46E93129C",
-            "Size": 3417966
+            "Md5": "B6098DC45487B17913CC7A632DE19EDA",
+            "Size": 3418066
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\4f771845a6f0da065e70dcd757482cc3.bundle",
@@ -298,8 +298,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\5332636f44230f999acec4d5d4c8711e.bundle",
-            "Md5": "2A4781AF3D37745D8E8B6A3D26E7FB37",
-            "Size": 1313109
+            "Md5": "725116CCF2CEEF56562A471C438E35FC",
+            "Size": 1313139
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\5774024400c99fedb1130ba468954dc1.bundle",
@@ -562,6 +562,11 @@
             "Size": 2509182
         },
         {
+            "FileName": "\\Z-Lift_Data\\data\\Lib\\f1e9d4cce9fd9f407869f17f14f1bf26.bundle",
+            "Md5": "3AC18938D98F696900602721A5A02F04",
+            "Size": 5838228
+        },
+        {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\f575bac53b55f91e592d7f8fe4794e63.bundle",
             "Md5": "A3B35EE4C43D0AD5F7A8B3A3A65F85DE",
             "Size": 1123285
@@ -588,8 +593,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\Managed\\Assembly-CSharp.dll",
-            "Md5": "C40A2A1903775D96DA858C012FCF6A17",
-            "Size": 629887
+            "Md5": "C9DE19EABFF634FCA4CB3801F3AAE6DC",
+            "Size": 629890
         },
         {
             "FileName": "\\Z-Lift_Data\\Managed\\DocumentFormat.OpenXml.dll",
@@ -1328,8 +1333,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\StreamingAssets\\aa\\catalog.json",
-            "Md5": "D73C2FFCDEF7AE2B5C337EF3615CBF70",
-            "Size": 177269
+            "Md5": "880646B77BCA55BC413F68C15287F97E",
+            "Size": 177916
         },
         {
             "FileName": "\\Z-Lift_Data\\StreamingAssets\\aa\\settings.json",
