@@ -1,33 +1,41 @@
-name: Sync GitHub to Gitee  # 工作流名称
+name: Sync GitHub to Gitee (Force Overwrite, No History)
 
-# 触发条件：当代码推送到 GitHub 的 main 分支时触发
 on:
   push:
-    branches: [ beta ]  # 可修改为你的默认分支，如 master
+    branches: [ beta ]
 
-# 工作流任务
 jobs:
   sync:
-    runs-on: ubuntu-latest  # 运行环境（Ubuntu 系统）
+    runs-on: ubuntu-latest
     steps:
-      # 步骤1：拉取 GitHub 仓库代码
       - name: Checkout GitHub code
-        uses: actions/checkout@v4  # 使用官方的代码拉取动作
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # 拉取所有历史记录，避免缺失提交
-      
-      # 步骤2：将代码同步到 Gitee（使用 HTTPS + 令牌）
-      - name: Sync to Gitee
-        uses: wearerequired/git-mirror-action@v1
-        env:
-          # 用于 GitHub 源仓库的 SSH 私钥（必须能访问 GitHub）
-          SSH_PRIVATE_KEY: ${{ secrets.GITEE_RSA_PRIVATE_KEY }}
-          # 用于 Gitee 目标仓库的 HTTPS 认证
-          GIT_USERNAME: shakespeach
-          GIT_PASSWORD: ${{ secrets.GITEE_TOKEN }}
-          GIT_HTTP_POST_BUFFER: 524288000  # 可选：大仓库增大缓冲区
-        with:
-          # 源仓库（GitHub）地址保持 SSH 格式
-          source-repo: git@github.com:zoomlion-shakespeach/i-craneplan-staticfiles.git
-          # 目标仓库（Gitee）地址改为 HTTPS 格式
-          destination-repo: https://gitee.com/shakespeach/i-craneplan-staticfiles.git
+          fetch-depth: 0  # 拉取全部历史（后续会丢弃）
+
+      - name: Configure SSH
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.GITEE_RSA_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan gitee.com >> ~/.ssh/known_hosts
+
+      - name: Create orphan branch with current files
+        run: |
+          # 设置 Git 用户身份（必须）
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          # 创建无历史分支
+          git checkout --orphan temp-branch
+          git add -A
+          git commit -m "Snapshot from GitHub $(date)"
+
+      - name: Force push to Gitee (replace everything)
+        run: |
+          # 强制推送 temp-branch 到 Gitee 的 beta 分支
+          git push -f git@gitee.com:shakespeach/i-craneplan-staticfiles-beta.git temp-branch:beta
+          # 可选：清理 Gitee 上的其他分支/标签（请根据实际情况调整）
+          # git push -f git@gitee.com:shakespeach/i-craneplan-staticfiles-beta.git --delete refs/heads/other-branch 2>/dev/null || true
+
+      - name: Clean up
+        run: rm -rf ~/.ssh/id_rsa
