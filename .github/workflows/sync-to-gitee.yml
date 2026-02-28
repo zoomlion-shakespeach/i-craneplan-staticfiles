@@ -18,16 +18,14 @@ jobs:
       
       # 步骤2：将代码同步到 Gitee
       - name: Sync to Gitee
-        #uses: wearerequired/git-mirror-action@v1  # 使用第三方同步动作
+        uses: wearerequired/git-mirror-action@v1  # 使用第三方同步动作
         env:
-          GIT_USERNAME: shakespeach
-          GIT_PASSWORD: ${{ secrets.GITEE_TOKEN }}
+          # 从 GitHub Secrets 中获取私钥
+          SSH_PRIVATE_KEY: ${{ secrets.GITEE_RSA_PRIVATE_KEY }}
           GIT_HTTP_POST_BUFFER: 524288000  # 设置 HTTP 缓冲区大小为 500MB
-          #GIT_SSH_COMMAND: "ssh -o ConnectTimeout=30 -o ServerAliveInterval=60"
-        run: |
-          # 添加 Gitee 远程仓库（HTTPS 地址，内嵌用户名和令牌）
-          git remote add gitee https://${GITEE_USERNAME}:${GITEE_TOKEN}@gitee.com/shakespeach/i-craneplan-staticfiles.git
-          
-          # 推送所有分支和标签（-f 是强制覆盖，与原来 mirror 效果类似）
-          git push -f --all gitee
-          git push -f --tags gitee
+          GIT_SSH_COMMAND: "ssh -o ConnectTimeout=30 -o ServerAliveInterval=60"
+        with:
+          # 源仓库（GitHub）地址（SSH 格式）
+          source-repo: git@github.com:zoomlion-shakespeach/i-craneplan-staticfiles.git
+          # 目标仓库（Gitee）地址（SSH 格式）
+          destination-repo: git@gitee.com:shakespeach/i-craneplan-staticfiles.git
