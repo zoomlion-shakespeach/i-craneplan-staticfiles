@@ -1,15 +1,15 @@
 {
-    "version": 281,
+    "version": 282,
     "updateMode": 0,
     "isCompress": true,
     "ApplicationName": "Z-Lift",
-    "UpdateTime": "03/06/2026 10:16:09",
-    "TotalSize": 323011403,
+    "UpdateTime": "03/06/2026 10:29:00",
+    "TotalSize": 322957810,
     "HotFiles": [
         {
             "FileName": "\\build.info",
             "Md5": "D7FE97C7B46F33A3D9D7B8292B9B12AE",
-            "Size": 53590
+            "Size": 53658
         },
         {
             "FileName": "\\UnityCrashHandler64.exe",
@@ -48,8 +48,8 @@
         },
         {
             "FileName": "\\launcher\\log.txt",
-            "Md5": "66766D3E9CDA2003E4DE49636D5226F7",
-            "Size": 70
+            "Md5": "F53A76044C7298DB47A8679F83436333",
+            "Size": 67
         },
         {
             "FileName": "\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll",
@@ -163,7 +163,7 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\globalgamemanagers",
-            "Md5": "D959AD0130B65C1D9AFF00EBDD54012F",
+            "Md5": "5029B6BCF85EB55BFFCA5827F7AE3F81",
             "Size": 37227
         },
         {
@@ -208,7 +208,7 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Cache\\cache2.tempcache",
-            "Md5": "A7F3AA5484CAD7D3A34A1E705C6CB402",
+            "Md5": "31AAE9E0023D6C94C1F1B9CA74D6935F",
             "Size": 531143
         },
         {
