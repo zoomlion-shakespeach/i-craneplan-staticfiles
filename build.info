@@ -1,15 +1,15 @@
 {
-    "version": 291,
+    "version": 294,
     "updateMode": 0,
     "isCompress": true,
     "ApplicationName": "Z-Lift",
-    "UpdateTime": "03/13/2026 09:47:54",
-    "TotalSize": 324533364,
+    "UpdateTime": "03/13/2026 11:50:54",
+    "TotalSize": 323969012,
     "HotFiles": [
         {
             "FileName": "\\build.info",
-            "Md5": "3AC3FA31AA90B7025E08C04B26BE4390",
-            "Size": 68434
+            "Md5": "3629258FB7479AC6742247DD699CD40F",
+            "Size": 68283
         },
         {
             "FileName": "\\UnityCrashHandler64.exe",
@@ -45,11 +45,6 @@
             "FileName": "\\launcher\\Launcher.pdb",
             "Md5": "623C4AAD96EDCC56BA1F9533B63A54AC",
             "Size": 4629
-        },
-        {
-            "FileName": "\\launcher\\log.txt",
-            "Md5": "C0CA4BD78C0B1217C0515E52528B0C65",
-            "Size": 70
         },
         {
             "FileName": "\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll",
@@ -163,8 +158,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\globalgamemanagers",
-            "Md5": "7AAEACC19049606C10FD4C68052C45C7",
-            "Size": 37258
+            "Md5": "C2F9471D4D427E07198BF8E5923E90C0",
+            "Size": 37261
         },
         {
             "FileName": "\\Z-Lift_Data\\globalgamemanagers.assets",
@@ -208,13 +203,13 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Cache\\cache2.tempcache",
-            "Md5": "D0792DD07082FC2118AAFD8A947D96C9",
-            "Size": 580485
+            "Md5": "E247EAD0A67947247BC61085D6A3327D",
+            "Size": 580487
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Cache\\cache3.tempcache",
-            "Md5": "3C880A45547F57B650086F19E3637AEF",
-            "Size": 72842
+            "Md5": "61396FD7DE7B4F34E7847B9ED87C26D0",
+            "Size": 72896
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\06123fbc3a786e2e732e8eb2d0f02ec3.bundle",
@@ -268,8 +263,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\2d4882c8343902c8ab78154bc9d2e379.bundle",
-            "Md5": "25AC4F203FF92C920CCF0EA2C1C3C715",
-            "Size": 9159609
+            "Md5": "72CCF495C94EEE40B151CD025B5F3BD1",
+            "Size": 9159065
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\322a9fc9c6daf6a557d5a5717892596e.bundle",
@@ -328,8 +323,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\5828a04c39762707a6dce2ea696c6ed8.bundle",
-            "Md5": "469F20CC9E47623CC2BB7263D7D64440",
-            "Size": 5439473
+            "Md5": "A26B37DB01A654BD61C4298903A4269F",
+            "Size": 5291332
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\5b18581707a59bd1608417db16ab0eb6.bundle",
@@ -528,8 +523,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\c39f10cbc74f11fa755fa035019fa52d.bundle",
-            "Md5": "590D16A577690241800BEFBB0B0605C4",
-            "Size": 4894034
+            "Md5": "4CA1983A0E6C7E90516F80147988F30A",
+            "Size": 4798360
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\c509b88e030f78920e1284e3f420ac22.bundle",
@@ -578,8 +573,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\dc077d5d8af18250b7be2c2df33c22dd.bundle",
-            "Md5": "6B16A14533B7F8D8F5C5E1B703008DB9",
-            "Size": 5412157
+            "Md5": "FCE5E9079FA7C100C7E91E7D668D5E82",
+            "Size": 5092177
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\dd071a59cc1fd2bd10b05cd938d655b6.bundle",
@@ -1368,8 +1363,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\StreamingAssets\\aa\\catalog.json",
-            "Md5": "D0DD5D98D1FD9A1274BB27450F6A7891",
-            "Size": 185607
+            "Md5": "705991B33915E671ED55135FA229DA4F",
+            "Size": 185605
         },
         {
             "FileName": "\\Z-Lift_Data\\StreamingAssets\\aa\\settings.json",
