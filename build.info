@@ -1,14 +1,14 @@
 {
-    "version": 293,
+    "version": 294,
     "updateMode": 0,
     "isCompress": true,
     "ApplicationName": "Z-Lift",
-    "UpdateTime": "03/18/2026 16:44:57",
+    "UpdateTime": "03/18/2026 17:10:58",
     "TotalSize": 323954723,
     "HotFiles": [
         {
             "FileName": "\\build.info",
-            "Md5": "383F1F3B174EFDAABF8462E7F9ABEC90",
+            "Md5": "C8ACC310BE68A7F2EC99C971E3180ED1",
             "Size": 53550
         },
         {
@@ -153,7 +153,7 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\globalgamemanagers",
-            "Md5": "F25094B29F88E83F6F96253871132D70",
+            "Md5": "4CF1C1C98ABD5B8BB834D78828D9D84C",
             "Size": 37296
         },
         {
@@ -198,7 +198,7 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Cache\\cache2.tempcache",
-            "Md5": "EA8E3E125C58AF5C498A9DE165B4F971",
+            "Md5": "4B5FDEE78A1D2AE7E17B4D02D53FD92E",
             "Size": 581867
         },
         {
