@@ -1,14 +1,14 @@
 {
-    "version": 305,
+    "version": 306,
     "updateMode": 0,
     "isCompress": true,
     "ApplicationName": "Z-Lift",
-    "UpdateTime": "03/30/2026 14:16:08",
-    "TotalSize": 322979386,
+    "UpdateTime": "03/30/2026 15:20:51",
+    "TotalSize": 322979355,
     "HotFiles": [
         {
             "FileName": "\\build.info",
-            "Md5": "433ACC1107B527717464EEC25C44D54A",
+            "Md5": "150AF2C8926D8B3AA7DD80DA147911C6",
             "Size": 53749
         },
         {
@@ -153,7 +153,7 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\globalgamemanagers",
-            "Md5": "48692C55B74489584DF2BA76B8B21691",
+            "Md5": "E88E1241DE3FCF40A00649C1EABD851A",
             "Size": 37359
         },
         {
@@ -198,12 +198,12 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Cache\\cache2.tempcache",
-            "Md5": "9F727429FB062A0F21601C65CB7CEBC4",
+            "Md5": "4F6FB1ED895F37924FE55FA20427A916",
             "Size": 588210
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Cache\\cache3.tempcache",
-            "Md5": "C326F5735C585841A65E8FEA523F484C",
+            "Md5": "C546026941B6AAAB81D76CBBFE2F1423",
             "Size": 64613
         },
         {
@@ -623,8 +623,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\Managed\\Assembly-CSharp.dll",
-            "Md5": "C1F0E3F7C49B15F6001CADA65EDA0544",
-            "Size": 643317
+            "Md5": "EB2FE4F688B069FBC7F9C4EE0E1920CA",
+            "Size": 643286
         },
         {
             "FileName": "\\Z-Lift_Data\\Managed\\DocumentFormat.OpenXml.dll",
