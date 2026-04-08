@@ -1,15 +1,15 @@
 {
-    "version": 310,
+    "version": 312,
     "updateMode": 0,
     "isCompress": true,
     "ApplicationName": "Z-Lift",
-    "UpdateTime": "04/07/2026 15:22:12",
-    "TotalSize": 338801193,
+    "UpdateTime": "04/08/2026 15:43:35",
+    "TotalSize": 338801123,
     "HotFiles": [
         {
             "FileName": "\\build.info",
-            "Md5": "5632C30953AC5D69D8EEEC4BA2A3DC86",
-            "Size": 54105
+            "Md5": "B33BC3E7F9BE8573813BFC431FD4F1FD",
+            "Size": 54156
         },
         {
             "FileName": "\\UnityCrashHandler64.exe",
@@ -40,11 +40,6 @@
             "FileName": "\\launcher\\Launcher.pdb",
             "Md5": "623C4AAD96EDCC56BA1F9533B63A54AC",
             "Size": 4629
-        },
-        {
-            "FileName": "\\launcher\\log.txt",
-            "Md5": "BE668D675F46B8573D2EACDCB0BCE4B1",
-            "Size": 70
         },
         {
             "FileName": "\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll",
@@ -158,8 +153,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\globalgamemanagers",
-            "Md5": "C42C7BB89E27D970AA4BA12F16AA3742",
-            "Size": 37426
+            "Md5": "FFF1C88E7F884246EBEF16D528235101",
+            "Size": 37427
         },
         {
             "FileName": "\\Z-Lift_Data\\globalgamemanagers.assets",
@@ -203,13 +198,13 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Cache\\cache2.tempcache",
-            "Md5": "F4C4DA6DAABE2E4D14FE02EE965F4A57",
+            "Md5": "A953AF35DA7DD70F3FEEE92FE1788C08",
             "Size": 610792
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Cache\\cache3.tempcache",
-            "Md5": "C4C900AAF7EB0A4C59F3973C62DFB33B",
-            "Size": 64614
+            "Md5": "CA32D3D1055EE1C21D899F0DAEADE34F",
+            "Size": 64613
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\06123fbc3a786e2e732e8eb2d0f02ec3.bundle",
