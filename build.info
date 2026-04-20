@@ -1,14 +1,14 @@
 {
-    "version": 317,
+    "version": 319,
     "updateMode": 0,
     "isCompress": true,
     "ApplicationName": "Z-Lift",
-    "UpdateTime": "04/17/2026 18:18:33",
-    "TotalSize": 338944161,
+    "UpdateTime": "04/20/2026 09:07:08",
+    "TotalSize": 338946966,
     "HotFiles": [
         {
             "FileName": "\\build.info",
-            "Md5": "DCE0DC7DAFCADCD1A34542D28E96BEF5",
+            "Md5": "E0CAE92CA1FB4F64C6296DD120AF1076",
             "Size": 54355
         },
         {
@@ -40,6 +40,11 @@
             "FileName": "\\launcher\\Launcher.pdb",
             "Md5": "623C4AAD96EDCC56BA1F9533B63A54AC",
             "Size": 4629
+        },
+        {
+            "FileName": "\\launcher\\log.txt",
+            "Md5": "471446D4C0ED7C1E6C875D0EFE8F4D76",
+            "Size": 47
         },
         {
             "FileName": "\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll",
@@ -153,8 +158,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\globalgamemanagers",
-            "Md5": "621003D45F47866048EFD1F256C207A4",
-            "Size": 37598
+            "Md5": "DEE4D291B61743926DBA493672D41317",
+            "Size": 37596
         },
         {
             "FileName": "\\Z-Lift_Data\\globalgamemanagers.assets",
@@ -198,12 +203,12 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Cache\\cache2.tempcache",
-            "Md5": "3405A93BF0C884CD5E5C391FA58ECC05",
-            "Size": 615012
+            "Md5": "5D665890B4FE75F7C1271AF25EBE33EB",
+            "Size": 616262
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Cache\\cache3.tempcache",
-            "Md5": "FF5D375FE326A2A940020665F8FB77E8",
+            "Md5": "3553DD222E5406453EAF0E55219DF1B5",
             "Size": 64613
         },
         {
@@ -303,8 +308,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\466572cfa443c0804c29cb651aeba9ae.bundle",
-            "Md5": "0EFBAE4E7891C68219C54AC140D9622A",
-            "Size": 3103015
+            "Md5": "114705BA8DE60CD5DCA2F95D89D1187B",
+            "Size": 3102768
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\4f5f9fb036f1ec0ee527e1a6549ad3f6.bundle",
@@ -378,8 +383,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\717c40474d6de8f4191ad04109df2173.bundle",
-            "Md5": "31AF768A4F5816EDC1F420ABDD262EA9",
-            "Size": 15971568
+            "Md5": "89BF194092C0D3FEDFAB323E250247E7",
+            "Size": 15972143
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\744bfb6bee8862f3bf3a30fe11a46bfe.bundle",
@@ -638,8 +643,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\Managed\\Assembly-CSharp.dll",
-            "Md5": "02940258E20F3F6DFD4E4867ACE9CA75",
-            "Size": 649160
+            "Md5": "753C83CB20EF7AD323B1EA87BF0D7917",
+            "Size": 649113
         },
         {
             "FileName": "\\Z-Lift_Data\\Managed\\DocumentFormat.OpenXml.dll",
@@ -1378,8 +1383,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\StreamingAssets\\aa\\catalog.json",
-            "Md5": "6E3B2F504D3F39573599D3BD11BDA8BF",
-            "Size": 191829
+            "Md5": "6DD2FB87215798A8F7B2CBF737E9B2E3",
+            "Size": 193093
         },
         {
             "FileName": "\\Z-Lift_Data\\StreamingAssets\\aa\\settings.json",
@@ -1388,8 +1393,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\StreamingAssets\\aa\\AddressablesLink\\link.xml",
-            "Md5": "06209C17A7EAA3B806C8BD9805B3A2BB",
-            "Size": 2773
+            "Md5": "EBB670319805E004A8040FEE37B994D1",
+            "Size": 2785
         },
         {
             "FileName": "\\Z-Lift_Data\\textures\\LoopImages\\Ads01.png",
