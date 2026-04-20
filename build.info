@@ -42,11 +42,6 @@
             "Size": 4629
         },
         {
-            "FileName": "\\launcher\\log.txt",
-            "Md5": "471446D4C0ED7C1E6C875D0EFE8F4D76",
-            "Size": 47
-        },
-        {
             "FileName": "\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll",
             "Md5": "666ED9A55AE90C6FE936CDA2D9DA62E3",
             "Size": 1895229
