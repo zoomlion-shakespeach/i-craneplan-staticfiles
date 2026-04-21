@@ -1,14 +1,14 @@
 {
-    "version": 320,
+    "version": 321,
     "updateMode": 0,
     "isCompress": true,
     "ApplicationName": "Z-Lift",
-    "UpdateTime": "04/21/2026 11:51:37",
-    "TotalSize": 338912674,
+    "UpdateTime": "04/21/2026 18:59:12",
+    "TotalSize": 338912765,
     "HotFiles": [
         {
             "FileName": "\\build.info",
-            "Md5": "908669074E2405E09F74EE4183766D55",
+            "Md5": "EF343BE9B15F1C14EC3AD6C8BC1A47B6",
             "Size": 54506
         },
         {
@@ -153,8 +153,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\globalgamemanagers",
-            "Md5": "1F2DED7A2563D261E77EAE268D3DFF6C",
-            "Size": 37640
+            "Md5": "4CAF3730EDB6980B3B8FF27BCB5BCE10",
+            "Size": 37638
         },
         {
             "FileName": "\\Z-Lift_Data\\globalgamemanagers.assets",
@@ -198,8 +198,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Cache\\cache2.tempcache",
-            "Md5": "41F8ED1E8D10C68276E7471B631924B2",
-            "Size": 615194
+            "Md5": "9CAF7833C7BB6708E4DE9A979E4362B6",
+            "Size": 616630
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Cache\\cache3.tempcache",
@@ -313,8 +313,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\4f771845a6f0da065e70dcd757482cc3.bundle",
-            "Md5": "12DED4053FA98CFA07D4FEE92F564E28",
-            "Size": 5024866
+            "Md5": "1AC36E31582BBE73830A752E26671B0D",
+            "Size": 5023414
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\50731842673cbab06213846a6749e3c1.bundle",
@@ -638,8 +638,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\Managed\\Assembly-CSharp.dll",
-            "Md5": "9E9F5BB0824B3AC411872C930CDBC50B",
-            "Size": 650475
+            "Md5": "5F58996FD5C0EB97568AE688B0238F88",
+            "Size": 650573
         },
         {
             "FileName": "\\Z-Lift_Data\\Managed\\DocumentFormat.OpenXml.dll",
@@ -1378,8 +1378,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\StreamingAssets\\aa\\catalog.json",
-            "Md5": "0E30BF603BA3A7A6BE3E2D00206C3BB4",
-            "Size": 192913
+            "Md5": "57B258D5AF393778267BB642E7D99CE9",
+            "Size": 192924
         },
         {
             "FileName": "\\Z-Lift_Data\\StreamingAssets\\aa\\settings.json",
