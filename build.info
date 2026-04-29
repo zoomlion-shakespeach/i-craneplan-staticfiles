@@ -1,10 +1,10 @@
 {
-    "version": 325,
+    "version": 326,
     "updateMode": 0,
     "isCompress": true,
     "ApplicationName": "Z-Lift",
-    "UpdateTime": "04/22/2026 16:19:53",
-    "TotalSize": 338911700,
+    "UpdateTime": "04/29/2026 11:48:23",
+    "TotalSize": 365844665,
     "HotFiles": [
         {
             "FileName": "\\UnityCrashHandler64.exe",
@@ -148,23 +148,23 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\globalgamemanagers",
-            "Md5": "674C071178FB0A0DEB308E68AF479F68",
-            "Size": 37654
+            "Md5": "DB281B91966F2C9A6EACA5300BA62D75",
+            "Size": 37859
         },
         {
             "FileName": "\\Z-Lift_Data\\globalgamemanagers.assets",
-            "Md5": "1EA139076CDBDA169564F1C76A268D0D",
-            "Size": 26109
+            "Md5": "5084AB56EF42BD9CFD1C54A6DBECD0E0",
+            "Size": 26297
         },
         {
             "FileName": "\\Z-Lift_Data\\level0",
-            "Md5": "6B1408913D538A9AA4B84643597CBD6B",
-            "Size": 6969
+            "Md5": "4C6317396CCA9D306F46DBC5F15A2B89",
+            "Size": 7249
         },
         {
             "FileName": "\\Z-Lift_Data\\resources.assets",
-            "Md5": "553EAA44A2E1E83536BF0CEDDDCF9211",
-            "Size": 251885
+            "Md5": "01D6EDC68D022FF3641031BD5ABBAD15",
+            "Size": 251882
         },
         {
             "FileName": "\\Z-Lift_Data\\resources.assets.resS",
@@ -183,23 +183,23 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\sharedassets0.assets",
-            "Md5": "B3562D85EAC817787102FD70F98AF134",
-            "Size": 124997
+            "Md5": "A7EB6A512C680FA79EB4940713090774",
+            "Size": 22213780
         },
         {
             "FileName": "\\Z-Lift_Data\\sharedassets0.assets.resS",
-            "Md5": "E88A769964945415DF85D592ACE74783",
-            "Size": 212328
+            "Md5": "1C536758BE85EB3C08EBB4ED372F6546",
+            "Size": 216040
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Cache\\cache2.tempcache",
-            "Md5": "EA95288068E69379A92796BED78FB36B",
-            "Size": 615772
+            "Md5": "645B0E97F71A65C7CAA3EA44AC237F7D",
+            "Size": 618476
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Cache\\cache3.tempcache",
-            "Md5": "6B0E8C146F06B920DA01ABDAF380B817",
-            "Size": 163744
+            "Md5": "6DF33758062C17F14AD2FF33BF86322E",
+            "Size": 164425
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\06123fbc3a786e2e732e8eb2d0f02ec3.bundle",
@@ -292,14 +292,19 @@
             "Size": 23852
         },
         {
+            "FileName": "\\Z-Lift_Data\\data\\Lib\\43e9c398cd20fd315a1a22e9aed061cb.bundle",
+            "Md5": "0DF4F409BC02E8C361D8A174F6146CCE",
+            "Size": 931250
+        },
+        {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\44e6d46013fd9176b3fb6bc76ede721e.bundle",
             "Md5": "96FA0731D5383C3F6F905B024A6E1336",
             "Size": 6336245
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\466572cfa443c0804c29cb651aeba9ae.bundle",
-            "Md5": "A09E3623EAE167F775EA1ED5E1AF8037",
-            "Size": 3102520
+            "Md5": "DA4F272C594E9EB07FAC750AFA4A4145",
+            "Size": 3104642
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\4f5f9fb036f1ec0ee527e1a6549ad3f6.bundle",
@@ -308,8 +313,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\4f771845a6f0da065e70dcd757482cc3.bundle",
-            "Md5": "1AC36E31582BBE73830A752E26671B0D",
-            "Size": 5023414
+            "Md5": "753506835FA3653459CF36DD68CBE09B",
+            "Size": 5023291
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\50731842673cbab06213846a6749e3c1.bundle",
@@ -373,8 +378,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\717c40474d6de8f4191ad04109df2173.bundle",
-            "Md5": "E5D689882C904F1F5DEEFE09BD989D9B",
-            "Size": 15838390
+            "Md5": "0538D477EDAB087D8BE5CE37C121CF11",
+            "Size": 15859434
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\744bfb6bee8862f3bf3a30fe11a46bfe.bundle",
@@ -398,13 +403,13 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\84b1d20bf8ea8a322254ad83bd5a28e0.bundle",
-            "Md5": "63A10B6ABD82DBE520098E641EB60EFE",
-            "Size": 4313114
+            "Md5": "505490645D98B938E3784F1B1FAF0C47",
+            "Size": 4314423
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\871a63ff0c3851a4be47f29a0d8c7e57.bundle",
-            "Md5": "0FAA82ECF41600A86278F94CEDB68449",
-            "Size": 4219555
+            "Md5": "ABE2C7589254A43A1CDFA2F51054878D",
+            "Size": 4219545
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\87998acf91dc105aefd052890490bf7c.bundle",
@@ -433,7 +438,7 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\a47aff01828101bc4b8f0de9c95d6fe8.bundle",
-            "Md5": "0C1BA295AC824A4719CF8C51C3B6F942",
+            "Md5": "3D8476B342704AC725329F91C0E0B319",
             "Size": 128522
         },
         {
@@ -473,7 +478,7 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\b62776c1a910856e081b3c8bd81137f4.bundle",
-            "Md5": "54AB4864F92C1E685508EE8306D05D3A",
+            "Md5": "907C194B5EB027084023E833B09A2AF6",
             "Size": 4219076
         },
         {
@@ -498,8 +503,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\bb50862bc7501c0b70fc888573a87f45.bundle",
-            "Md5": "38AC72ADA54BAFEA3F90734FE872F32A",
-            "Size": 3713791
+            "Md5": "0B30F41B4EBAF543E6590F3663A10402",
+            "Size": 3694907
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\bd8944538f42a55b648a4512020c28d8.bundle",
@@ -557,6 +562,11 @@
             "Size": 2807
         },
         {
+            "FileName": "\\Z-Lift_Data\\data\\Lib\\cf957844e8488338a65ec6268106abcc.bundle",
+            "Md5": "5FCF7F2E5A85B8E844C56DC79588BC89",
+            "Size": 7004908
+        },
+        {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\d1faefad8d7c7d05fc96f91591bb7277.bundle",
             "Md5": "6CEF37B74EFAFEC32513AF3FC3C9CFAE",
             "Size": 8604929
@@ -580,6 +590,11 @@
             "FileName": "\\Z-Lift_Data\\data\\Lib\\dc077d5d8af18250b7be2c2df33c22dd.bundle",
             "Md5": "AA5DA876914B9CBC2A65D9A43917F96F",
             "Size": 5089646
+        },
+        {
+            "FileName": "\\Z-Lift_Data\\data\\Lib\\dc75696ca3df83cd81664a8447f021aa.bundle",
+            "Md5": "27592240F6A8F10F04A009BC8C4EAC37",
+            "Size": 3890926
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\dd071a59cc1fd2bd10b05cd938d655b6.bundle",
@@ -617,11 +632,6 @@
             "Size": 7005000
         },
         {
-            "FileName": "\\Z-Lift_Data\\data\\Lib\\fb515d4e8bdc23f97a7325cbfbbaa4ee.bundle",
-            "Md5": "09D4DA5434328F212BB5257050A9CDF5",
-            "Size": 7004908
-        },
-        {
             "FileName": "\\Z-Lift_Data\\Managed\\Accessibility.dll",
             "Md5": "63C434B864FF270CE9FEF43917DC8621",
             "Size": 3819
@@ -633,8 +643,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\Managed\\Assembly-CSharp.dll",
-            "Md5": "004092176B53F57330E42B6D77FB0519",
-            "Size": 650147
+            "Md5": "99151BDC90E6E597A997B9EE9A4D1827",
+            "Size": 656424
         },
         {
             "FileName": "\\Z-Lift_Data\\Managed\\DocumentFormat.OpenXml.dll",
@@ -1373,8 +1383,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\StreamingAssets\\aa\\catalog.json",
-            "Md5": "9A7B6F72B13AA6DA6B36F670D045D082",
-            "Size": 192978
+            "Md5": "796CA888A186B8EF48FEBEEB8F0E6831",
+            "Size": 195482
         },
         {
             "FileName": "\\Z-Lift_Data\\StreamingAssets\\aa\\settings.json",
