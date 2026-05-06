@@ -1,10 +1,10 @@
 {
-    "version": 326,
+    "version": 327,
     "updateMode": 0,
     "isCompress": true,
     "ApplicationName": "Z-Lift",
-    "UpdateTime": "04/29/2026 11:48:23",
-    "TotalSize": 365844665,
+    "UpdateTime": "05/06/2026 09:08:44",
+    "TotalSize": 369360586,
     "HotFiles": [
         {
             "FileName": "\\UnityCrashHandler64.exe",
@@ -148,8 +148,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\globalgamemanagers",
-            "Md5": "DB281B91966F2C9A6EACA5300BA62D75",
-            "Size": 37859
+            "Md5": "68EB584979A416B2FF7C42AD6238BD8C",
+            "Size": 37858
         },
         {
             "FileName": "\\Z-Lift_Data\\globalgamemanagers.assets",
@@ -193,8 +193,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Cache\\cache2.tempcache",
-            "Md5": "645B0E97F71A65C7CAA3EA44AC237F7D",
-            "Size": 618476
+            "Md5": "6E51880CCFE46A6B1E014F1E86857096",
+            "Size": 622720
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Cache\\cache3.tempcache",
@@ -293,8 +293,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\43e9c398cd20fd315a1a22e9aed061cb.bundle",
-            "Md5": "0DF4F409BC02E8C361D8A174F6146CCE",
-            "Size": 931250
+            "Md5": "533378878A8BAD6D97224AA9CB010092",
+            "Size": 4441482
         },
         {
             "FileName": "\\Z-Lift_Data\\data\\Lib\\44e6d46013fd9176b3fb6bc76ede721e.bundle",
@@ -643,8 +643,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\Managed\\Assembly-CSharp.dll",
-            "Md5": "99151BDC90E6E597A997B9EE9A4D1827",
-            "Size": 656424
+            "Md5": "8AD5618821C6C4BE7070CB49F7C273FB",
+            "Size": 656590
         },
         {
             "FileName": "\\Z-Lift_Data\\Managed\\DocumentFormat.OpenXml.dll",
@@ -1383,8 +1383,8 @@
         },
         {
             "FileName": "\\Z-Lift_Data\\StreamingAssets\\aa\\catalog.json",
-            "Md5": "796CA888A186B8EF48FEBEEB8F0E6831",
-            "Size": 195482
+            "Md5": "449B1BCC15BF130EA1584452BEEE2F62",
+            "Size": 196762
         },
         {
             "FileName": "\\Z-Lift_Data\\StreamingAssets\\aa\\settings.json",
